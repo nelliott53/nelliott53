@@ -4,7 +4,7 @@ Fonts are separated by a | */
 @import url('https://fonts.googleapis.com/css2?family=Stick+No+Bills:wght@200&family=Yaldevi:wght@200&display=swap');
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #14213d   ;
+  --primary-color: #2b406d   ;
   --secondary-color: #fca311 ;
   --accent1-color: #e5e5e5;
   --accent2-color: white;
@@ -17,7 +17,7 @@ Fonts are separated by a | */
   --headline-color-on-white: #000000;  /* headlines on a white background */ 
   --headline-color-on-color: white; /* headlines on a colored background */ 
   --paragraph-color-on-white: #000000; /* paragraph text on a white background */ 
-  --paragraph-color-on-color: rgb(0, 0, 0); /* paragraph text on a colored background */ 
+  --paragraph-color-on-color: rgb(255, 255, 255); /* paragraph text on a colored background */ 
   --paragraph-background-color: #000000  ;
   --nav-link-color: #000000;
   --nav-background-color: #fca311;
